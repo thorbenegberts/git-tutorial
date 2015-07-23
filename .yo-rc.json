@@ -1,0 +1,9 @@
+{
+  "generator-java": {
+    "title": "Git Tutorial",
+    "description": "",
+    "author": "Thorben Egberts",
+    "email": "tegberts@gmail.com",
+    "namespace": "net.k0aru.git_tutorial"
+  }
+}
