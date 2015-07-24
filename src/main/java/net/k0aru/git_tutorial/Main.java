@@ -18,7 +18,7 @@ public class Main {
 
   private static void hello() {
 
-    System.out.println("Good Day World!");
+    System.out.println("Hello World!");
 
   }
 
