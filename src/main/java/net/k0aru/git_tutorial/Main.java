@@ -12,13 +12,13 @@ public class Main {
 
   public static void main(String[] args) {
 
-    heyJoe();
+    hello();
 
   }
 
-  private static void helloJoe() {
+  private static void hello() {
 
-    System.out.println("Hey Joe, where you goin' with that gun in your hand?");
+    System.out.println("Hello World!");
 
   }
 
