@@ -18,7 +18,7 @@ public class Main {
 
   private static void helloJoe() {
 
-    System.out.println("Hey Joe!");
+    System.out.println("Hey Joe, where you goin' with that gun in your hand?");
 
   }
 
